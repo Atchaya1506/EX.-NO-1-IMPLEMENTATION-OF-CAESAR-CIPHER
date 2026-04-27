@@ -53,7 +53,8 @@ void main()
 }
 ```
 ## OUTPUT:
-<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/2b14583b-88e1-40d4-aa35-bb78f638e016" />
+<img width="1906" height="1181" alt="image" src="https://github.com/user-attachments/assets/d243410b-575b-452c-8eac-997b061db5fa" />
+
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
